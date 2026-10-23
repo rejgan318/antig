@@ -15,7 +15,7 @@ def main():
     
     # Тест второй функции
     word_count = count_words(text)
-    print(f"Количество слов в строке: {word_count}")
+    print(f"Количество слов в строке:  {word_count}")
 
 
 if __name__ == "__main__":
